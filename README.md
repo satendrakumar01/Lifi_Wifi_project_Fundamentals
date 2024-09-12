@@ -123,7 +123,7 @@ For a fresher role in **RF (Radio Frequency) testing**, the focus is on understa
 
 ---
 
-### **Resume Highlights for Fresher RF Testing Role**
+### **Highlights RF Testing **
 
 - **RF and Network Testing**:
   - Assisted in conducting **signal strength (RSSI) and interference testing** in WiFi and cellular networks.
@@ -192,7 +192,7 @@ In a **LiFi (Light Fidelity)** system, several **sensors** and **transmitters** 
 
 ---
 
-### **Key Components to Highlight in an Interview:**
+### **Key Components to Highlight :**
 
 1. **LED Transmitter**:
    - Emphasize its role in modulating light to transmit data.
@@ -214,7 +214,7 @@ In a **LiFi (Light Fidelity)** system, several **sensors** and **transmitters** 
 
 ---
 
-### **What to Emphasize in an Interview:**
+### **What to Emphasize :**
 
 - **Understanding of Basic LiFi Components**: Demonstrate a clear understanding of how each component functions within a LiFi system, from the LED transmitter to the photodiode receiver.
 - **System Integration**: Highlight how these components work together, especially in modulating and demodulating light signals.
